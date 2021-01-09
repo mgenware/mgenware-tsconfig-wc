@@ -1,6 +1,6 @@
 {
   "name": "mgenware-tsconfig-wc",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An opinionated tsconfig for web components projects",
   "author": "Mgenware (https://github.com/mgenware)",
   "homepage": "https://github.com/mgenware/mgenware-tsconfig-wc",
