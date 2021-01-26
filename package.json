@@ -13,10 +13,10 @@
     "url": "https://github.com/mgenware/mgenware-tsconfig-wc"
   },
   "engines": {
-    "node": ">=12.0.0"
+    "node": ">=14.0.0"
   },
   "license": "MIT",
   "dependencies": {
-    "@tsconfig/node12": "^1.0.7"
+    "@tsconfig/node14": "^1.0.0"
   }
 }
