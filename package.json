@@ -17,6 +17,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@tsconfig/node14": "^1.0.0"
+    "mgenware-tsconfig-node": "^14.0.1"
   }
 }

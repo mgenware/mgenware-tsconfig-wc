@@ -6,3 +6,10 @@
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@tsconfig/node14/-/node14-1.0.0.tgz#5bd046e508b1ee90bc091766758838741fdefd6e"
   integrity sha512-RKkL8eTdPv6t5EHgFKIVQgsDapugbuOptNd9OOunN/HAkzmmTnZELx1kNCK0rSdUYGmiFMM3rRQMAWiyp023LQ==
+
+mgenware-tsconfig-node@^14.0.1:
+  version "14.0.1"
+  resolved "https://registry.yarnpkg.com/mgenware-tsconfig-node/-/mgenware-tsconfig-node-14.0.1.tgz#c87461b607c62595dd31fd71da47e624d388926c"
+  integrity sha512-yE58ILQCCj0JmeURcQHft5Ptom+bLKcVlzSc6FNz2inNHrDzDZCRhJ94ZpJ7ey3jFhk82zpGzsg8a3LUGlWgjA==
+  dependencies:
+    "@tsconfig/node14" "^1.0.0"
